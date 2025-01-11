@@ -1,0 +1,3 @@
+This is a student name example
+["Alkhahfi Segoro Fadillah", "Muhammad Ilham", "Ahmad Muttaqi Khoiruzzad", "Zalfa Banu Dhiya", "Abdul Wahid", "Satria Argiya Yudira", "Fachrul Fanani", "Satria Budi Ibrahim", "Maulana Malik Ibrahim", "Adam Fatih Adiwangsa", "Ahmad Atyan", "Muhammad Septian Faturrahman", "Muhammad Gema Mahardika", "Muhammad Gilang Rabbani", "Syahri Sya\'bana", "Ahmad Faisal", "Aldo Hartanto", "Muhammad Nabil Fahrillah", "Rizki Aditya Fauzi", "Cahya Kurniawan", "Iqbal Maulana Yusuf", "Bagus Edy Suseto", "Satria Pratama", "Dzulkifli Aji Rafli", "Aditya Bagaskara Kusuma Putra", "Agus Romdoni", "Hanif Abidin Alim", "Ahmad Yazid Arifbillah", "Muhammad Syarif Khoirul Anam"]
+
